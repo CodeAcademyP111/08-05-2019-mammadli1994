@@ -1,0 +1,14 @@
+.main{
+    width: 1170px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between
+}
+
+.item{
+    box-sizing: border-box;
+    height: 150px;
+    background-color: aqua;
+    margin-top: 10px;
+}
