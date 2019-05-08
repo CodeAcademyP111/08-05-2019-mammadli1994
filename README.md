@@ -33,4 +33,4 @@ console.log(findDublicate(arr));
 
 3 - 7 gün arasında -> bu həftə
 
-1 həftədən çox olarsa -> 16 iyun 2018
+1 həftədən çox olarsa -> 01 05 2018
